@@ -1,27 +1,123 @@
-<h1 align="center">Hey! 👋, I'm AL-AMIN HASAN</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alwayshasantech50&label=Profile%20views&color=0e75b6&style=flat" alt="alwayshasantech50" /> </p>
+<h1 align="center">Hi 👋, I'm Al-Amin Hasan</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alwayshasantech50" alt="alwayshasantech50" /></a> </p>
+<h3 align="center">
+BSc in Mathematics || Learning Modern Web Technologies || Aspiring Full Stack Web Developer
+</h3>
 
-- 🖥️ I’m currently working on **React.js, Next.js, Typescript and Redux for frontend development.**
-
-- 🛠️ I’m currently learning **Better-Auth, Node, Express, MongoDB, PostgreSQL.**
-
-- 🗄️ Using **Node.js, Express.js, MongoDB, Mongoose, PostgreSQL, and Prisma for the backend.**
-
-- 🌐 Explore My Portfolio [alwayshasanTech](alwayshasanTech)
-
-- 💬 Ask me about **Full-Stack (React, Next, Node, Express, MongoDB, PostgreSQL).**
-
-- 📫 How to reach me **alwayshasan96@gmail.com**
-
-- 📄 Know about my experiences [My Resume](My Resume)
-
-- ⚡ Fun fact **Problem Solver by Passion Mathematics Student by Education**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+Passionate about Coding, Problem Solving and Building Real-World Web Applications.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=alwayshasantech50&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+</p>
+
+
+## 🚀 About Me
+
+- 🎓 Final-Year BSc in Mathematics
+- 💻 Passionate about Coding & Problem Solving
+- 🌱 Currently learning React, Next.js & TypeScript
+- 🔥 Building Real-World Projects
+- 🎯 Goal: Become a Full Stack Web Developer
+- 🚀 Building My Future in Tech
+
+## 📚 Currently Learning
+
+- React.js
+- Next.js
+- TypeScript
+- API Integration
+- Node.js Fundamentals
+- Express.js
+- MongoDB
+
+
+## 📌 Featured Projects
+
+### 🏋️ FitLog
+A workout planning and fitness tracking application built with Next.js.
+
+🔗 Live Demo: Coming Soon
+
+🔗 Repository:
+https://github.com/alwayshasantech50
+
+---
+
+### 🧰 Dev Stack Builder
+
+React + TypeScript application for creating personalized development stacks.
+
+🔗 Repository:
+https://github.com/alwayshasantech50
+
+
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,typescript" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel" />
+</p>
+
+
+## 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=alwayshasantech50&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alwayshasantech50&layout=compact&theme=tokyonight"/>
+
+</p>
+
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=alwayshasantech50&theme=tokyonight" />
+</p>
+
+
+## 📈 Contribution Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=alwayshasantech50&theme=tokyo-night" />
+
+
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=alwayshasantech50&theme=tokyonight&row=1&column=6" />
+</p>
+
+
+## 🎯 2027 Goals
+
+- Become a Full Stack Web Developer
+- Build Production-Level Projects
+- Improve Problem Solving Skills
+- Contribute to Open Source
+- Start My Professional Career in Tech
+
+
+## 🤝 Connect With Me
+
+📧 Email:
+alwayshasan96@gmail.com
+
+🐙 GitHub:
+https://github.com/alwayshasantech50
