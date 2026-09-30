@@ -26,41 +26,19 @@ Passionate about Coding, Problem Solving and Building Real-World Web Application
 
 ## 📚 Currently Learning
 
-<p align="left">
-  <!-- Redux -->
-  <img src="https://skillicons.dev/icons?i=redux" height="48" alt="Redux" />
-
-  <!-- TanStack Query / React Query -->
-  <img src="https://cdn.simpleicons.org/tanstack" height="48" alt="TanStack Query" />
-
-  <!-- React Hook Form -->
-  <img src="https://cdn.simpleicons.org/reacthookform" height="48" alt="React Hook Form" />
-
-  <!-- Express -->
-  <img src="https://skillicons.dev/icons?i=express" height="48" alt="Express.js" />
-
-  <!-- PostgreSQL -->
-  <img src="https://skillicons.dev/icons?i=postgresql" height="48" alt="PostgreSQL" />
-
-  <!-- Firebase -->
-  <img src="https://skillicons.dev/icons?i=firebase" height="48" alt="Firebase" />
-
-  <!-- Notion -->
-  <img src="https://skillicons.dev/icons?i=notion" height="48" alt="Notion" />
-</p>
-
-<p align="left">
-  <!-- Better Auth -->
-  <img src="https://cdn.simpleicons.org/betterauth" height="48" alt="Better Auth" />
-
-  <!-- REST API -->
-  <img
-    src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white"
-    height="48"
-    alt="REST API"
-  />
-</p>
-
+<table>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/better-auth/better-auth/main/docs/public/branding/png/better-auth-mark-dark.png" height="48" alt="Better Auth"></td>
+    <td><img src="https://skillicons.dev/icons?i=redux" height="48" alt="Redux"></td>
+    <td><img src="https://skillicons.dev/icons?i=express" height="48" alt="Express.js"></td>
+    <td><img src="https://skillicons.dev/icons?i=postgresql" height="48" alt="PostgreSQL"></td>
+    <td><img src="https://skillicons.dev/icons?i=firebase" height="48" alt="Firebase"></td>
+    <td><img src="https://skillicons.dev/icons?i=notion" height="48" alt="Notion"></td>
+    <td><img src="https://img-c.udemycdn.com/course/480x270/6438091_f108_3.jpg" height="48" alt="React Query"></td>
+    <td><img src="https://react-hook-form.com/images/logo/react-hook-form-logo-only.png" height="48" alt="React Hook Form"></td>
+    <td><img src="https://www.iconpacks.net/icons/free-icons-6/free-rest-api-blue-logo-icon-22099-thumb.png" height="48" alt="REST API"></td>
+  </tr>
+</table>
 
 ## 📌 Featured Projects
 
