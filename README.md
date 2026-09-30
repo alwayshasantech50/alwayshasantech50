@@ -92,19 +92,31 @@ https://github.com/alwayshasantech50
 ### ◈ Frontend
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,redux,tailwind" />
-  <img src="https://cdn.simpleicons.org/tanstack" height="48" alt="TanStack Query" />
-  <img src="https://cdn.simpleicons.org/reacthookform" height="48" alt="React Hook Form" />
-  <img src="https://cdn.simpleicons.org/daisyui" height="48" alt="DaisyUI" />
+  <img
+  src="https://img-c.udemycdn.com/course/480x270/6438091_f108_3.jpg"
+  height="48"
+  alt="React Query"
+/>
+  <img
+  src="https://react-hook-form.com/images/logo/react-hook-form-logo-only.png"
+  height="48"
+  alt="React Hook Form"
+/>
+  <img
+  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgDPcDYITbYD8fSOU5Y8UEQoSGpvPlMYDIOyM-V4hlphbUubnvZEJ8euE&amp;s=10"
+  height="48"
+  alt="daisyUI"
+/>
 </p>
 
 ### ◈ Backend
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
   <img
-    src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white"
-    height="48"
-    alt="REST API"
-  />
+  src="https://www.iconpacks.net/icons/free-icons-6/free-rest-api-blue-logo-icon-22099-thumb.png"
+  height="48"
+  alt="REST API"
+/>
 </p>
 
 ### ◈ Databases & Cloud
