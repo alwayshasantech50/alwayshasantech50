@@ -133,7 +133,15 @@ https://github.com/alwayshasantech50
 
 ## 📈 Contribution Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=alwayshasantech50&theme=tokyo-night" />
+
+<a href="https://github.com/alwayshasantech50">
+
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=alwayshasantech50&theme=tokyo-night&hide_border=true"
+    alt="GitHub Contribution Activity"
+  />
+
+</a>
 
 
 
