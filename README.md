@@ -23,15 +23,43 @@ Passionate about Coding, Problem Solving and Building Real-World Web Application
 - 🎯 Goal: Become a Full Stack Web Developer
 - 🚀 Building My Future in Tech
 
+
 ## 📚 Currently Learning
 
-- React.js
-- Next.js
-- TypeScript
-- API Integration
-- Node.js Fundamentals
-- Express.js
-- MongoDB
+<p align="left">
+  <!-- Redux -->
+  <img src="https://skillicons.dev/icons?i=redux" height="48" alt="Redux" />
+
+  <!-- TanStack Query / React Query -->
+  <img src="https://cdn.simpleicons.org/tanstack" height="48" alt="TanStack Query" />
+
+  <!-- React Hook Form -->
+  <img src="https://cdn.simpleicons.org/reacthookform" height="48" alt="React Hook Form" />
+
+  <!-- Express -->
+  <img src="https://skillicons.dev/icons?i=express" height="48" alt="Express.js" />
+
+  <!-- PostgreSQL -->
+  <img src="https://skillicons.dev/icons?i=postgresql" height="48" alt="PostgreSQL" />
+
+  <!-- Firebase -->
+  <img src="https://skillicons.dev/icons?i=firebase" height="48" alt="Firebase" />
+
+  <!-- Notion -->
+  <img src="https://skillicons.dev/icons?i=notion" height="48" alt="Notion" />
+</p>
+
+<p align="left">
+  <!-- Better Auth -->
+  <img src="https://cdn.simpleicons.org/betterauth" height="48" alt="Better Auth" />
+
+  <!-- REST API -->
+  <img
+    src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white"
+    height="48"
+    alt="REST API"
+  />
+</p>
 
 
 ## 📌 Featured Projects
@@ -54,43 +82,64 @@ React + TypeScript application for creating personalized development stacks.
 https://github.com/alwayshasantech50
 
 
-
 ## 🛠️ Tech Stack
 
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,typescript" />
+### ◈ Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,python" />
 </p>
 
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+### ◈ Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,redux,tailwind" />
+  <img src="https://cdn.simpleicons.org/tanstack" height="48" alt="TanStack Query" />
+  <img src="https://cdn.simpleicons.org/reacthookform" height="48" alt="React Hook Form" />
+  <img src="https://cdn.simpleicons.org/daisyui" height="48" alt="DaisyUI" />
 </p>
 
-### Tools
+### ◈ Backend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+  <img
+    src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white"
+    height="48"
+    alt="REST API"
+  />
+</p>
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel" />
+### ◈ Databases & Cloud
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,firebase" />
+</p>
+
+### ◈ DevOps & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,notion,vscode,figma" />
 </p>
 
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=alwayshasantech50&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alwayshasantech50&layout=compact&theme=tokyonight"/>
-
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alwayshasantech50&theme=tokyonight"
+    height="190"
+  />
 </p>
-
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=alwayshasantech50&theme=tokyonight" />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alwayshasantech50&theme=tokyonight"
+    height="190"
+  />
 </p>
 
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=alwayshasantech50&theme=tokyonight&hide_border=false"
+    height="190"
+  />
+</p>
 
 ## 📈 Contribution Activity
 
