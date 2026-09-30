@@ -137,20 +137,13 @@ https://github.com/alwayshasantech50
 
 
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=alwayshasantech50&theme=tokyonight&row=1&column=6" />
-</p>
-
-
 ## 🎯 2027 Goals
 
 - Become a Full Stack Web Developer
 - Build Production-Level Projects
 - Improve Problem Solving Skills
 - Contribute to Open Source
-- Start My Professional Career in Tech
+- Start My Professional Career in Tech Industry
 
 
 ## 🤝 Connect With Me
